@@ -460,6 +460,11 @@ footer li {
     html {
         font-size: 58%;
     }
+
+    .hero::before {
+        background-image: url(img/bg-mobile.jpg);
+    }
+
     .simply-countdown > .simply-section {
         padding: .8rem;
     }
